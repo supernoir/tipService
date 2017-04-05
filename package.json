@@ -1,0 +1,15 @@
+{
+  "name": "tipService",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Conny Kawohl <conny.kawohl@useeds.de>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
